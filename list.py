@@ -4,6 +4,8 @@
 # it tells https://docs.python.org/3.7/library/collections
 from collections import deque
 
+# Some minor changes
+
 queue = deque(["Eric", "John", "Michael"])
 print(queue)
 
